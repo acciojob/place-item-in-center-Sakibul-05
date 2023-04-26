@@ -1,19 +1,20 @@
 /* Your CSS Code here. */
-body{
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-.parent{
-	background-color: blue;
-	color: white;
-	width: 20vw;
-	height: 20vh;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-.child{
-	font-size: 5vh;
-	font-weight: bold;
-}
+.holder {
+        /* background-color: blue; */
+        /* color: white; */
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .child{
+        background-color: blue;
+        width: 100px;
+        height: 100px;
+        color: white;
+        font-size: 4vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
