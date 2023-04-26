@@ -1,2 +1,13 @@
-
 /* Your CSS Code here. */
+.parent{
+	background-color: blue;
+	color: white;
+	width: 20vw;
+	height: 20vh;
+	display: flex;
+	just
+}
+.child{
+	font-size: 5vh;
+	font-weight: bold;
+}
