@@ -1,11 +1,17 @@
 /* Your CSS Code here. */
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 .parent{
 	background-color: blue;
 	color: white;
 	width: 20vw;
 	height: 20vh;
 	display: flex;
-	just
+	justify-content: center;
+	align-items: center;
 }
 .child{
 	font-size: 5vh;
